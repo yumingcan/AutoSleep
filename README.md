@@ -9,7 +9,7 @@ Batch read EEG/EMG recording data in DAQ files,
 Visualization EMG signals for data quality control,
 Filter EEG and EMG signals,
 Calculate power spectrum of EEG,
-Distinguish different brain states and analyze their duration and transition,
+Mark different brain states and analyze their duration and transition,
 and finally output organized results in Excel files.
 Optionally, compare results of automatic and manual analysis.
 
